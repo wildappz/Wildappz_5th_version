@@ -134,14 +134,7 @@
   .u-section-1 .u-social-icons-1 {
     --animation-custom_in-translate_x: -400px;
     --animation-custom_in-rotate: 180deg;
-<<<<<<< HEAD
-    width: 98px;
-    height: 26px;
     margin-top: 29px;
-    margin-bottom: 43px;
-=======
-    margin-top: 29px;
->>>>>>> 6cb3622e9d12898b14636e5790c30f1f9baea3e3
   }
 
   .u-section-1 .u-icon-1 {
@@ -295,39 +288,22 @@
 
 @media (max-width: 575px) {
   .u-section-2 .u-sheet-1 {
-<<<<<<< HEAD
-    min-height: 1165px;
-  }
-
-  .u-section-2 .u-layout-wrap-1 {
-    margin-top: 1px;
-    margin-bottom: 1px;
-=======
     min-height: 1210px;
   }
 
   .u-section-2 .u-layout-wrap-1 {
     margin-top: 0;
     margin-bottom: 0;
->>>>>>> 6cb3622e9d12898b14636e5790c30f1f9baea3e3
     margin-right: initial;
     margin-left: initial;
   }
 
   .u-section-2 .u-layout-cell-1 {
-<<<<<<< HEAD
-    min-height: 1164px;
-  }
-
-  .u-section-2 .u-container-layout-1 {
-    padding-bottom: 13px;
-=======
     min-height: 1210px;
   }
 
   .u-section-2 .u-container-layout-1 {
     padding-bottom: 20px;
->>>>>>> 6cb3622e9d12898b14636e5790c30f1f9baea3e3
   }
 
   .u-section-2 .u-text-1 {
@@ -341,11 +317,7 @@
   }
 
   .u-section-2 .u-text-2 {
-<<<<<<< HEAD
-    letter-spacing: -1.3px;
-=======
     letter-spacing: -1.2px;
->>>>>>> 6cb3622e9d12898b14636e5790c30f1f9baea3e3
     font-weight: 500;
     width: auto;
     margin-top: 25px;
@@ -720,10 +692,7 @@
   .u-section-4 .u-image-1 {
     width: 134px;
     height: 134px;
-<<<<<<< HEAD
-=======
     --radius: 23px;
->>>>>>> 6cb3622e9d12898b14636e5790c30f1f9baea3e3
     margin-top: 54px;
     margin-left: 16px;
   }
@@ -868,19 +837,11 @@
   }
 
   .u-section-5 .u-form-1 {
-<<<<<<< HEAD
-    height: 627px;
-    width: 340px;
-    margin-top: 32px;
-    margin-left: auto;
-    margin-right: auto;
-=======
     height: 676px;
     margin-top: 32px;
     margin-right: initial;
     margin-left: initial;
     width: auto;
->>>>>>> 6cb3622e9d12898b14636e5790c30f1f9baea3e3
   }
 } .u-section-6 {
   background-image: none;
@@ -1154,11 +1115,7 @@
 
 @media (max-width: 575px) {
   .u-section-6 .u-sheet-1 {
-<<<<<<< HEAD
-    min-height: 1371px;
-=======
     min-height: 1403px;
->>>>>>> 6cb3622e9d12898b14636e5790c30f1f9baea3e3
   }
 
   .u-section-6 .u-text-1 {
@@ -1168,9 +1125,5 @@
 
   .u-section-6 .u-accordion-1 {
     margin-top: 33px;
-<<<<<<< HEAD
-    margin-bottom: 28px;
-=======
->>>>>>> 6cb3622e9d12898b14636e5790c30f1f9baea3e3
   }
 }
